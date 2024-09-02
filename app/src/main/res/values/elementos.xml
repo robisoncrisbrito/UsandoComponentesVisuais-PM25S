@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cidades" >
+        <item > Pato Branco </item>
+        <item > Coronel Vivida </item>
+        <item > Mariopolis </item>
+        <item > Marmelerio </item>
+    </string-array>
+
+</resources>
